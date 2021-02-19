@@ -1,2 +1,2 @@
 # ezirim_obinna_bughunters
-How to create repository and manage the content from my command dialog box as well as linking my github account to my slack code review channel
+Demoing how to cerate a repository and manage the content from your command prompt as well as linking your github account to your slack task-review channel
